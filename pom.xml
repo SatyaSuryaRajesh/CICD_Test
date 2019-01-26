@@ -63,7 +63,7 @@
 					<!-- muleVersion is the runtime version as it appears on the CloudHub 
 						interface -->
 					<muleVersion>3.9.2</muleVersion>
-					<username>SSR2</username>
+					<username>TestMuleAPP</username>
 					<password>Welcome@123</password>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
